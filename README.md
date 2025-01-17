@@ -1,1 +1,3 @@
-My implementation of the RayTracingInOneWeekend(https://raytracing.github.io/) books.
+My implementation of the RayTracingInOneWeekend.
+
+Source: [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
