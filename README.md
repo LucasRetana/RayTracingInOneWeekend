@@ -1,3 +1,13 @@
-My implementation of the RayTracingInOneWeekend course.
+# Ray Tracing in One Weekend
+My implementation of the "Ray Tracing in One Weekend" book by Peter Shirley.
 
-Source: [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+## ⚙️ Features
+- Anti-aliasing
+- Diffuse, Metal and Dielectric Materials
+- Depth of Field
+
+## 🖼️ Results
+
+
+## Source
+[_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
