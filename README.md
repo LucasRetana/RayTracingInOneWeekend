@@ -7,7 +7,7 @@ My implementation of the "Ray Tracing in One Weekend" book by Peter Shirley.
 - Depth of Field
 
 ## 🖼️ Results
-images/final.ppm
+![Local Image](./images/final.ppm)
 
 ## Source
 [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
