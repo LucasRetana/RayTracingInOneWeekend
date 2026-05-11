@@ -6,7 +6,7 @@ My implementation of the "Ray Tracing in One Weekend" book by Peter Shirley.
 - Diffuse, Metal and Dielectric Materials
 - Depth of Field
 
-## 🖼️ Results
+## 🖼️ Final Result
 ![Local Image](./images/final.jpg)
 
 ## Source
